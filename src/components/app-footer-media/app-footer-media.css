@@ -1,0 +1,50 @@
+.footer-media {
+    margin: 0 auto;
+    max-width: 1016px;
+    margin-bottom: 30px;
+}
+
+.media {
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    font-size: 12px;
+}
+
+
+.link-footer-media {
+    text-decoration: underline;
+    color: #c1121e;
+}
+
+.wrapper-flex {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.social-icons {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.media-icons {
+    display: block;
+    width: 24px;
+    height: 24px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.f-icon {
+    background-image: url(./facebook.svg);
+}
+
+.in-icon {
+    background-image: url(./in.svg);
+}
+
+.x-icon {
+    background-image: url(./X.svg);
+}

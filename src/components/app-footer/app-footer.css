@@ -1,0 +1,43 @@
+.appfooter {
+    margin: 0 auto;
+    max-width: 1016px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin: 0 auto;
+    max-width: 1016px;
+}
+
+.logo-footer {
+    width: 136px;
+    height: 20px;
+    background-image: url(./logoPL.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.list-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.item-footer:not(:last-child)::after {
+    content: "|";
+    font-size: 14px;
+    margin-left: 10px;
+    padding-left: 1px;
+    color: #5c5c5c;
+    margin-right: 5px;
+}
+
+.link-footer {
+    color: #333333;
+    font-size: 14px;
+    transition: color 0.3s ease;
+}
