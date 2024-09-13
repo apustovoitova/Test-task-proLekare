@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Test-task-proLekare/static/css/main.264fb420.css",
+    "main.js": "/Test-task-proLekare/static/js/main.6a56f7ca.js",
+    "static/media/Image_reklama.svg": "/Test-task-proLekare/static/media/Image_reklama.9496a0b9cdd374da8208.svg",
+    "static/media/logoPL.svg": "/Test-task-proLekare/static/media/logoPL.c110305e7d46b1d9cbbe.svg",
+    "static/media/calendar.svg": "/Test-task-proLekare/static/media/calendar.d2ca44224b42d392b3c8.svg",
+    "static/media/left.svg": "/Test-task-proLekare/static/media/left.ef73e54b74becb4049ff.svg",
+    "index.html": "/Test-task-proLekare/index.html",
+    "static/media/cursor.svg": "/Test-task-proLekare/static/media/cursor.16d5d5bc34eeb8a2fd49.svg",
+    "static/media/in.svg": "/Test-task-proLekare/static/media/in.e04e3067b90db071dca0.svg",
+    "static/media/facebook.svg": "/Test-task-proLekare/static/media/facebook.2e6c937e79cb83c8fdb8.svg",
+    "static/media/X.svg": "/Test-task-proLekare/static/media/X.ee580fe1fccbd256f27b.svg",
+    "main.264fb420.css.map": "/Test-task-proLekare/static/css/main.264fb420.css.map",
+    "main.6a56f7ca.js.map": "/Test-task-proLekare/static/js/main.6a56f7ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264fb420.css",
+    "static/js/main.6a56f7ca.js"
+  ]
+}
